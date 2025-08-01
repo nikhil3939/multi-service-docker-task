@@ -6,9 +6,9 @@
     "test": "test"
   },
   "scripts": {
-  "start": "node index.js",
-  "test": "jest",
-  "lint": "echo \"No linting yet\""
+    "start": "node index.js",
+    "test": "jest",
+    "lint": "echo \"No linting yet\""
   },
   "keywords": [],
   "author": "",

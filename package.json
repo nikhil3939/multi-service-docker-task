@@ -1,0 +1,26 @@
+{
+  "name": "multi-service-docker-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  "start": "node index.js",
+  "test": "jest",
+  "lint": "echo \"No linting yet\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.32.0",
+    "jest": "^30.0.5"
+  }
+}
